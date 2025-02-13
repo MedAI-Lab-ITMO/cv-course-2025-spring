@@ -15,3 +15,4 @@
 7. задачи генерации [видео](https://drive.google.com/file/d/1n-M_nbzVWKO8OO0WyPp7K9HB8qOXsXNv/view?usp=sharing) [презентация](/presentations/generation.pdf)
 
 ## Практики
+1. базовое обучение модели [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing)

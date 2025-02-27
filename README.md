@@ -16,3 +16,5 @@
 
 ## Практики
 1. базовое обучение модели [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing)
+2. wandb basics [![lesson2a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pmAo0I6fwwSOOg8L0PaJKn4r74JI1DfM),
+wandb sweep [![lesson2a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15oCMtkDM9dXXBjv4sjJJ8uZ6tYOI-XhP)

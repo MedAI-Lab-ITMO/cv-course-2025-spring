@@ -10,7 +10,7 @@
 [представление изображения](/materials/Представление_изображения.pdf)
 2. [feb21] трансформеры [видео](https://drive.google.com/file/d/1J3t5d_gl1_d90JAfv8tu_QNjIgPXEtz1/view?usp=sharing) [презентация](/presentations/Transformers.pdf)
 3. [mar07] задачи распознавания [видео](https://drive.google.com/file/d/1ZoAjrTTArxNnSq7DMAw-p-BiGMie_yFv/view?usp=sharing) [презентация](/presentations/recognition.pdf)
-4. [mar21] обучение моделей [видео] [презентация]
+4. [mar21] обучение моделей [видео](https://drive.google.com/file/d/14E9iMmGM2JRZ1oNTxe4kzLhiexnyIt1P/view?usp=sharing) [презентация](/presentations/small_data.pdf)
 5. [apr04] робастность [видео] [презентация]
 6. [apr18] объяснимость [видео] [презентация]
 7. [may02] задачи генерации [видео](https://drive.google.com/file/d/1n-M_nbzVWKO8OO0WyPp7K9HB8qOXsXNv/view?usp=sharing) [презентация](/presentations/generation.pdf)

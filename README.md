@@ -20,7 +20,7 @@
 2. [feb28] wandb basics [![lesson2a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pmAo0I6fwwSOOg8L0PaJKn4r74JI1DfM),
 wandb sweep [![lesson2a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15oCMtkDM9dXXBjv4sjJJ8uZ6tYOI-XhP)
 3. [mar14] HuggingFace [![lesson3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-4_aBLjeZa1I8J2X6dBMUw_IO_48k7vl?usp=sharing)
-4. [mar28]
-5. [apr11]
-6. [apr25]
-7. [may09]
+4. [mar28] аугментации [![lesson4a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing), тьюнинг [![lesson4b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x06FViaEYNt8aSnXSKQNwKba0HaaxkD1?usp=sharing)
+7. [apr11]
+8. [apr25]
+9. [may09]

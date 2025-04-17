@@ -12,8 +12,8 @@
 3. [mar07] задачи распознавания [видео](https://drive.google.com/file/d/1ZoAjrTTArxNnSq7DMAw-p-BiGMie_yFv/view?usp=sharing) [презентация](/presentations/recognition.pdf)
 4. [mar21] обучение моделей [видео](https://drive.google.com/file/d/14E9iMmGM2JRZ1oNTxe4kzLhiexnyIt1P/view?usp=sharing) [презентация](/presentations/small_data.pdf)
 5. [apr04] задачи генерации [видео](https://drive.google.com/file/d/1n-M_nbzVWKO8OO0WyPp7K9HB8qOXsXNv/view?usp=sharing) [презентация](/presentations/generation.pdf)
-6. [apr18] объяснимость [видео] [презентация]
-7. [may02] робастность [видео] [презентация]
+6. [apr18] сжатие моделей [видео](https://drive.google.com/file/d/1LtYFohusBEjS8ptazN4fqC0Eb1Rhj9ZF/view?usp=sharing) [презентация]
+7. [may02] робастность [видео] [презентация] объяснимость [видео] [презентация]
 
 ## Практики
 1. [feb14] базовое обучение модели [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing)

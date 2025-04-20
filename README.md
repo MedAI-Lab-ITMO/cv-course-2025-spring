@@ -22,7 +22,7 @@ wandb sweep [![lesson2a](https://colab.research.google.com/assets/colab-badge.sv
 3. [mar14] HuggingFace [![lesson3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-4_aBLjeZa1I8J2X6dBMUw_IO_48k7vl?usp=sharing)
 4. [mar28] аугментации [![lesson4a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGoUSewKO_32rpZ_EIQG-KyW_eMLma82?usp=sharing),
 тьюнинг [![lesson4b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x06FViaEYNt8aSnXSKQNwKba0HaaxkD1?usp=sharing)
-6. [apr11] gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
-7. [apr25] подсчет флопсов [![lesson6a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1al0i0Q7UKxftBe6JBa1lIvFAFdMa13kP?usp=sharing)
+5. [apr11] gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
+6. [apr25] подсчет флопсов [![lesson6a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1al0i0Q7UKxftBe6JBa1lIvFAFdMa13kP?usp=sharing),
  прунинг [![lesson6b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVLiO4S4PwNKE-66hb4XE1z39iEJlQVG?usp=sharing)
-8. [may09]
+7. [may09]

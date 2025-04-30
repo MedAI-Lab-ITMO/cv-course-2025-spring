@@ -25,4 +25,4 @@ wandb sweep [![lesson2a](https://colab.research.google.com/assets/colab-badge.sv
 5. [apr11] gradio [![lesson5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPxPzrKD4AlBFbxRtw31uHt4eVIP8H6S?usp=sharing)
 6. [apr25] подсчет флопсов [![lesson6a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1al0i0Q7UKxftBe6JBa1lIvFAFdMa13kP?usp=sharing),
  прунинг [![lesson6b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVLiO4S4PwNKE-66hb4XE1z39iEJlQVG?usp=sharing)
-7. [may09]
+7. [may16]

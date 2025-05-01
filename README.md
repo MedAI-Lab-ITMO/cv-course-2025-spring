@@ -13,7 +13,8 @@
 4. [mar21] обучение моделей [видео](https://drive.google.com/file/d/14E9iMmGM2JRZ1oNTxe4kzLhiexnyIt1P/view?usp=sharing) [презентация](/presentations/small_data.pdf)
 5. [apr04] задачи генерации [видео](https://drive.google.com/file/d/1n-M_nbzVWKO8OO0WyPp7K9HB8qOXsXNv/view?usp=sharing) [презентация](/presentations/generation.pdf)
 6. [apr18] сжатие моделей [видео](https://drive.google.com/file/d/1LtYFohusBEjS8ptazN4fqC0Eb1Rhj9ZF/view?usp=sharing) [презентация](/presentations/compression.pdf)
-7. [may02] робастность [видео] [презентация] объяснимость [видео] [презентация]
+7. [may02] OOD [видео](https://drive.google.com/file/d/1Vde8nyDdIGdHRP5c6vhGx41A2AgW2V-0/view?usp=sharing) [презентация](/presentations/OOD.pdf)
+8. [may23] объяснимость [видео] [презентация]
 
 ## Практики
 1. [feb14] базовое обучение модели [![lesson1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yo5HDJnfVGFJ9ciNxHTPFH2xicCaIA5?usp=sharing)
@@ -26,3 +27,4 @@ wandb sweep [![lesson2a](https://colab.research.google.com/assets/colab-badge.sv
 6. [apr25] подсчет флопсов [![lesson6a](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1al0i0Q7UKxftBe6JBa1lIvFAFdMa13kP?usp=sharing),
  прунинг [![lesson6b](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVLiO4S4PwNKE-66hb4XE1z39iEJlQVG?usp=sharing)
 7. [may16]
+8. [may30]
